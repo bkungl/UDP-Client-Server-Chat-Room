@@ -24,8 +24,7 @@ jobs:
   #codeql build
   analyze:
     name: Analyze
-    #runs-on: ubuntu-latest
-    runs-on: windows-lastest
+    runs-on: ubuntu-latest
     
     strategy:
       fail-fast: false
