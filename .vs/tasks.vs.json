@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-UDP-Client-Server-Chat-Room",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
